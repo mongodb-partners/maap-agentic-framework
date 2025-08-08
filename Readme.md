@@ -37,4 +37,4 @@ The Data Loader system provides robust and flexible data ingestion capabilities,
 - Integration with MongoDB's vector storage
 
 **Referenced Github**
-For more information, visit the [Data Loader](https://github.com/mongodb-partners/maap-data-loader).
+For more information, visit the [Data Loader](https://github.com/mongodb-partners/maap-data-loader/tree/data-loader).
